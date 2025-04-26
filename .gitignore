@@ -54,3 +54,4 @@ dkms.conf
 # gnucash
 *.log
 *.bak
+*.LCK
